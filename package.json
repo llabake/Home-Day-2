@@ -1,0 +1,23 @@
+{
+  "name": "home-day-2",
+  "version": "1.0.0",
+  "description": "Bootcamp/LOS 23 Second day offsite\r Program to reverse string",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llabake/Home-Day-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llabake/Home-Day-2/issues"
+  },
+  "homepage": "https://github.com/llabake/Home-Day-2#readme",
+  "keywords": []
+}
